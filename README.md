@@ -7,7 +7,7 @@ Exercise on PHP/OOP/MVC.
 The Mission
 Make a price calculator with the following entities:
 
- [x]Customer (Firstname, Lastname)
+ -[x]-Customer (Firstname, Lastname)
  [x]A customer group (Name)
  [x]A product (product name, price in cents)
 To calculate the price:
